@@ -21,3 +21,6 @@ The Richa Store wants to create an annual sales report for 2022. So that, the ow
 -	Created pivot tables according to the questions asked.
 -	Then created different pivot charts.
 -	Merge all pivot charts into one dashboard and apply slicer to make it dynamic.
+
+ ## Dashbroad
+ - <a href=
