@@ -23,4 +23,5 @@ The Richa Store wants to create an annual sales report for 2022. So that, the ow
 -	Merge all pivot charts into one dashboard and apply slicer to make it dynamic.
 
  ## Dashbroad
- - <a href=
+ ![Richa Store Dashboard Screenshot](https://github.com/user-attachments/assets/6796ec63-164e-4641-a9fe-3436c41d98a3)
+
